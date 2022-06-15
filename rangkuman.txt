@@ -1,0 +1,3 @@
+Rangkuman git
+Deskripsi
+Git adalah sebuah version control, git mencatat setiap perubahan file di code atau sourcecode kita
